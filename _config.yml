@@ -11,11 +11,11 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "Juan Villada"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
