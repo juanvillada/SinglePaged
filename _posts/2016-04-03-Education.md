@@ -3,7 +3,7 @@ title: Education
 bg: col2
 color: black
 fa-icon: university
-style: center
+style: left
 ---
 
 # (2016) **MSc.** in Agricultural Microbiology
@@ -12,7 +12,7 @@ style: center
 
 ### **Research:** Individual Codon Contribution to Protein Biosynthesis in Yeast
 
-### **___________________**
+
 
 # (2013) **BSc.** in Agricultural Engineering
 
