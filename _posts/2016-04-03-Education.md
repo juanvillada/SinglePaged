@@ -1,5 +1,5 @@
 ---
-title: 
+title: Education
 bg: col2
 color: black
 fa-icon: university
