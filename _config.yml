@@ -16,7 +16,7 @@ highlighter: rogue
 
 ### content configuration ###
 title:       "Juan"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+keywords:    "Y ahora"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
