@@ -3,7 +3,7 @@ title: Education
 bg: col2
 color: black
 fa-icon: university
-style: left
+style: center
 ---
 
 # MSc. in Agricultural Microbiology
@@ -18,5 +18,5 @@ style: left
 
 ## Universidad del Valle
 
-## Colombia
+### Colombia
 
