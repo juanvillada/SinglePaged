@@ -5,7 +5,11 @@ color: black
 fa-icon: university
 ---
 
-# Education
+# MSc. in Agricultural Microbiology
+## Universidade Federal de Viçosa
+### Brazil
 
-<p> BSc. in Agricultural Engineering </p>
-<p> MSc. in Agricultural Microbiology </p>
+# BSc. in Agricultural Engineering
+## Universidad del Valle
+## Colombia
+
