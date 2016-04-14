@@ -1,7 +1,7 @@
 ---
 title: Education
-bg: col3
-color: white
+bg: col2
+color: black
 fa-icon: bar-chart
 
 ---
