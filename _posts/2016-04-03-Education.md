@@ -6,7 +6,7 @@ fa-icon: university
 style: center
 ---
 
-# (2016) MSc. in Agricultural Microbiology
+# (2016) **MSc.** in Agricultural Microbiology
 
 ## Universidade Federal de Viçosa - Brazil
 
@@ -14,7 +14,7 @@ style: center
 
 
 
-# (2013) BSc. in Agricultural Engineering
+# (2013) **BSc.** in Agricultural Engineering
 
 ## Universidad del Valle - Colombia
 
