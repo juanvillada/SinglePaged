@@ -6,6 +6,6 @@ fa-icon: bar-chart fa-spin
 ---
 
 ## Education
-asdasda
-asdasdasd
-asdasdasd
+
+<p> BSc. in Agricultural Engineering </p>
+<p> MSc. in Agricultural Microbiology </p>
