@@ -6,7 +6,7 @@ fa-icon: bar-chart fa-spin
 
 ---
 
-# Education
+## Education
 asdasda
 asdasdasd
 asdasdasd
