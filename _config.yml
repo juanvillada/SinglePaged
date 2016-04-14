@@ -11,12 +11,21 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
+<<<<<<< HEAD
 highlighter: rogue
 
 
 ### content configuration ###
 title:       "Juan Villada"
 keywords:    "Microbial Bioinformatics"
+=======
+highlighter: pygments
+
+
+### content configuration ###
+title:       "SinglePaged - Simple Jekyll template"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+>>>>>>> t413/gh-pages
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
