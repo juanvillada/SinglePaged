@@ -6,17 +6,17 @@ fa-icon: university
 style: center
 ---
 
-# MSc. in Agricultural Microbiology
+# (2016) MSc. in Agricultural Microbiology
 
-## Universidade Federal de Viçosa
+## Universidade Federal de Viçosa - Brazil
 
-### Brazil
+### Research: Individual Codon Contribution to Protein Biosynthesis in Yeast
 
 
 
 # BSc. in Agricultural Engineering
 
-## Universidad del Valle
+## Universidad del Valle - Colombia
 
-### Colombia
+### Research: Comparative Genomics of Nitrogen Fixing Bacteria
 
