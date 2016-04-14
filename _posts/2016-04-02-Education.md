@@ -2,7 +2,7 @@
 title: Education
 bg: blue
 color: white
-icon: img/services.png
+fa-icon: fa-envira
 ---
 
 # Education
