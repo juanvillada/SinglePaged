@@ -19,8 +19,8 @@ title: Juan Villada
 keywords: bioinformatics, microbial, metabolic networks
 description: Computational Biology Rocks!
 source_link: "https://github.com/juanvillada"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     #"img/favicon.ico"
+touch_icon:  #"img/apple-touch-icon.png"
 google_analytics_key:  UA-76401379-1
 
 
