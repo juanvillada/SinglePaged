@@ -1,6 +1,6 @@
 ---
 title: Education
-bg: col3
+bg: col2
 color: black
 fa-icon: university
 style: center
