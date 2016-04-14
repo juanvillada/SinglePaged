@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Juan Villada - Microbial Bioinformatics"
+title:       "Juan Villada - Microbial Bioinformatics 2.0"
 keywords:    "Y ahora"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
