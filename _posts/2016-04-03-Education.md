@@ -3,6 +3,7 @@ title: Education
 bg: col2
 color: black
 fa-icon: university
+style: left
 ---
 
 # MSc. in Agricultural Microbiology
@@ -10,6 +11,8 @@ fa-icon: university
 ## Universidade Federal de Viçosa
 
 ### Brazil
+
+
 
 # BSc. in Agricultural Engineering
 
