@@ -10,13 +10,13 @@ style: center
 
 ## Universidade Federal de Viçosa - Brazil
 
-### Research: Individual Codon Contribution to Protein Biosynthesis in Yeast
+### **Research:** Individual Codon Contribution to Protein Biosynthesis in Yeast
 
 
 
-# BSc. in Agricultural Engineering
+# (2013) BSc. in Agricultural Engineering
 
 ## Universidad del Valle - Colombia
 
-### Research: Comparative Genomics of Nitrogen Fixing Bacteria
+### **Research:** Comparative Genomics of Nitrogen Fixing Bacteria
 
