@@ -17,7 +17,7 @@ highlighter: rouge
 ### content configuration ###
 title: Juan Villada
 keywords: bioinformatics, microbial, metabolic networks
-description: Computational Biology Rocks!
+description: Microbial Bioinformatics for Biotechnology
 source_link: "https://github.com/juanvillada"
 favicon:     #"img/favicon.ico"
 touch_icon:  #"img/apple-touch-icon.png"
