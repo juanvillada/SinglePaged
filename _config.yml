@@ -32,6 +32,8 @@ colors:
   col4:      '#22264b'
   black:     '#111111'
   white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
   
 
 kramdown:
