@@ -16,6 +16,6 @@ fa-icon: university
 	</p>
 	
 <p>
-	<i class="fa fa-university" aria-hidden="true"></i> <strong> BSc. in Agricultural Engineering. </strong> (2016) 
+	<i class="fa fa-university" aria-hidden="true"></i> <strong> BSc. in Agricultural Engineering. </strong> (2013) 
 	Universidad del Valle. <em>Research: Comparative Genomics of Nitrogen Fixing Bacteria.</em>
 	</p>
