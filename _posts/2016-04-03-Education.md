@@ -10,12 +10,12 @@ style: left
 	City University of Hong Kong. <em>Research: Synthetic Microbial Communities.</em>
 	</p>
 	
-	<p>
+<p>
 	<i class="fa university" aria-hidden="true"></i> <strong> MSc. in Agricultural Microbiology. </strong> (2016) 
 	Universidade Federal de Viçosa. <em>Research: Individual Codon Contribution to Protein Biosynthesis in Yeast.</em>
 	</p>
 	
-		<p>
+<p>
 	<i class="fa university" aria-hidden="true"></i> <strong> BSc. in Agricultural Engineering. </strong> (2016) 
 	Universidad del Valle. <em>Research: Comparative Genomics of Nitrogen Fixing Bacteria.</em>
 	</p>
