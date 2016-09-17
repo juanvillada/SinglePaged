@@ -5,15 +5,17 @@ color: blue
 fa-icon: university
 style: left
 ---
-<p> _______________ </p>
-<p> (2016-current) PhD School of Energy and Environment </p>
-<p> City University of Hong Kong </p>
-<p> Research: Synthetic Microbial Communities </p>
-<p> _______________ </p>
-<p> (2016) MSc. in Agricultural Microbiology </p>
-<p> Universidade Federal de Viçosa </p>
-<p> Research: Individual Codon Contribution to Protein Biosynthesis in Yeast </p>
-<p> _______________ </p>
-<p> (2013) BSc. in Agricultural Engineering </p>
-<p> Universidad del Valle </p>
-<p> Research: Comparative Genomics of Nitrogen Fixing Bacteria </p>
+<p>
+	<i class="fa university" aria-hidden="true"></i> <strong> Ph.D. School of Energy and Environment. </strong> (2016-current) 
+	City University of Hong Kong. <em>Research: Synthetic Microbial Communities.</em>
+	</p>
+	
+	<p>
+	<i class="fa university" aria-hidden="true"></i> <strong> MSc. in Agricultural Microbiology. </strong> (2016) 
+	Universidade Federal de Viçosa. <em>Research: Individual Codon Contribution to Protein Biosynthesis in Yeast.</em>
+	</p>
+	
+		<p>
+	<i class="fa university" aria-hidden="true"></i> <strong> BSc. in Agricultural Engineering. </strong> (2016) 
+	Universidad del Valle. <em>Research: Comparative Genomics of Nitrogen Fixing Bacteria.</em>
+	</p>
