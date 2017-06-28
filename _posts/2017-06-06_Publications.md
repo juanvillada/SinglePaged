@@ -1,0 +1,1 @@
+**Villada, J. C.**, Brustolini, O. J. B., & Batista da Silveira, W. (2017). Integrated analysis of individual codon contribution to protein biosynthesis reveals a new approach to improving the basis of rational gene design. _Dna Research_, dsx014. https://academic.oup.com/dnaresearch/article/3752474
