@@ -7,7 +7,7 @@ fa-icon: university
 
 <p>
 	<i class="fa fa-university" aria-hidden="true"></i> <strong> Ph.D. School of Energy and Environment. </strong> (2016-current) 
-	City University of Hong Kong. <em>Research: Synthetic Microbial Communities.</em>
+	City University of Hong Kong. <em>Research: Genomics and Systems Biology of Aerobic Methanotrophs.</em>
 	</p>
 	
 <p>
