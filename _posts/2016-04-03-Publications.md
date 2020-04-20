@@ -8,7 +8,6 @@ fa-icon: newspaper-o
 **2019**
 --------
 
-<a name="Villada_2019_pmoCAB"></a>
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1128/mSystems.00342-19"></div> 
 
 **Villada JC**, Duran MF & Lee PKH (2019). Genomic evidence for simultaneous optimization of transcription and translation through codon variants in the _pmoCAB_ operon of type Ia methanotrophs. _**mSystems**_. [Link](https://msystems.asm.org/content/4/4/e00342-19) - [PDF](../papers_pdf/2019_mSystems_pmo.pdf)
