@@ -17,7 +17,7 @@ highlighter: rouge
 ### content configuration ###
 title: Juan C. Villada
 keywords: bioinformatics, microbiology, metabolic networks, codon usage
-description: In silico Microbiology
+description: Computational Microbiology
 source_link: "https://github.com/juanvillada"
 favicon:     #"img/favicon.ico"
 touch_icon:  #"img/apple-touch-icon.png"
