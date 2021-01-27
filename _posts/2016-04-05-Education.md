@@ -6,7 +6,7 @@ fa-icon: university
 ---
 
 <p>
-	<i class="fa fa-university" aria-hidden="true"></i> <strong> PhD. Energy and Environment. </strong> (2016-current) 
+	<i class="fa fa-university" aria-hidden="true"></i> <strong> PhD. Energy and Environment. </strong> (2021) 
 	City University of Hong Kong. <em>Research: Genomics and Systems Biology of Aerobic Methanotrophs.</em>
 	</p>
 	
