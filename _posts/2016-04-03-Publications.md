@@ -27,8 +27,7 @@ fa-icon: newspaper-o
 
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1016/j.tibtech.2018.07.003"></div>
-3. Lu H, **Villada JC**, & Lee PK (2018). Modular metabolic engineering for biobased chemical production.
-_**Trends in Biotechnology**_. [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30194-X) - [PDF](../papers_pdf/2018_trends_consortia.pdf)
+3. Lu H, **Villada JC**, & Lee PK (2018). Modular metabolic engineering for biobased chemical production. _**Trends in Biotechnology**_. [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30194-X) - [PDF](../papers_pdf/2018_trends_consortia.pdf)
 
 
 
