@@ -7,7 +7,7 @@ fa-icon: newspaper-o
 
 
 <div style="float: right; padding-left: 15px" class='altmetric-embed' data-badge-type='donut' data-link-target='_blank' data-doi="10.1128/msystems.00073-22"></div> 
-7.**Villada JC**, Duran MF, Lim CK, Stein LY & Lee PKH (2022). Integrative Genome-Scale Metabolic Modeling Reveals Versatile Metabolic Strategies for Methane Utilization in Methylomicrobium album BG8. _**mSystems**_. [Link](https://doi.org/10.1128/msystems.00073-22) - [PDF](../papers_pdf/2020_mSystems_hydrogenBonds.pdf)
+7. **Villada JC**, Duran MF, Lim CK, Stein LY & Lee PKH (2022). Integrative Genome-Scale Metabolic Modeling Reveals Versatile Metabolic Strategies for Methane Utilization in Methylomicrobium album BG8. _**mSystems**_. [Link](https://doi.org/10.1128/msystems.00073-22) - [PDF](../papers_pdf/2020_mSystems_hydrogenBonds.pdf)
 
 
 
