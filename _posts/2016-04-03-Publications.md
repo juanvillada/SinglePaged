@@ -4,6 +4,11 @@ fa-icon: newspaper-o
 ---
 
 
+- **Villada JC** & Schulz F. (2022). The endosymbiotic box of protective tricks.
+_**Nature Reviews Microbiology**_. [Link](http://dx.doi.org/10.1038/s41579-022-00727-8) - [PDF](../papers_pdf/2022_Nature_Reviews_Microbiology_Endosymbionts.pdf)
+
+https://github.com/juanvillada/juanvillada.github.io/blob/master/papers_pdf/
+
 - **Villada JC**, Duran MF, Lim CK, Stein LY & Lee PKH (2022). Integrative Genome-Scale Metabolic Modeling Reveals Versatile Metabolic Strategies for Methane Utilization in _Methylomicrobium album BG8_.
 _**mSystems**_. [Link](https://doi.org/10.1128/msystems.00073-22) - [PDF](../papers_pdf/2022_mSystems_BG8_GEM.pdf)
 
