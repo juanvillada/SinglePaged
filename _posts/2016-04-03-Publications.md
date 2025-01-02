@@ -25,7 +25,7 @@ _**Frontiers in Microbiology**_. [Link](https://www.frontiersin.org/articles/10.
 _**Trends in Biotechnology**_. [Link](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(18)30194-X) - [PDF](../papers_pdf/2018_trends_consortia.pdf)
 
 - **Villada JC**, Brustolini OJB, &  da Silveira WB. (2017). Integrated analysis of individual codon contribution to protein biosynthesis reveals a new approach to improving the basis of rational gene design.
-_**Dna Research**_. [Link](https://academic.oup.com/dnaresearch/article/3752474) - [PDF](../papers_pdf/2017_DNARes_codon.pdf)
+_**DNA Research**_. [Link](https://academic.oup.com/dnaresearch/article/3752474) - [PDF](../papers_pdf/2017_DNARes_codon.pdf)
 
 - Diniz RHS, **Villada JC**, Alvim MCT, Vidigal PMP, Vieira NM, Lamas-Maceiras M, ... & da Silveira, WB (2017). Transcriptome analysis of the thermotolerant yeast _Kluyveromyces marxianus_ CCT 7735 under ethanol stress.
 _**Applied Microbiology and Biotechnology**_. [Link](https://link.springer.com/article/10.1007/s00253-017-8432-0) - [PDF](../papers_pdf/2017_ApplMicBio_kmarx.pdf)
