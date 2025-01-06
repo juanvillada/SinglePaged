@@ -4,7 +4,7 @@ fa-icon: newspaper-o
 ---
 
 - Dutkiewicz Z, Singleton CM, Sereika M, **Villada JC**, Mussig AJ, Chuvochina M, Albertsen M, Schulz F, Woyke T, Nielsen PH, Hugenholtz P (**2024**). Proposal of Patescibacterium danicum gen. Nov., sp. nov. in the ubiquitous ultrasmall bacterial phylum Patescibacteriota phyl. Nov.
-_**ISME Communications**_. [Link]([http://dx.doi.org/10.1038/s41579-022-00727-8](https://doi.org/10.1093/ismeco/ycae147)) - [PDF](../papers_pdf/2024_ISME_Communications_Patesci.pdf)
+_**ISME Communications**_. [Link](https://doi.org/10.1093/ismeco/ycae147) - [PDF](../papers_pdf/2024_ISME_Communications_Patesci.pdf)
 
 - **Villada JC** & Schulz F. (**2022**). The endosymbiotic box of protective tricks.
 _**Nature Reviews Microbiology**_. [Link](http://dx.doi.org/10.1038/s41579-022-00727-8) - [PDF](../papers_pdf/2022_Nature_Reviews_Microbiology_Endosymbionts.pdf)
